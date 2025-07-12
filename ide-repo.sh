@@ -1,3 +1,5 @@
+#!/data/data/com.itsaky.androidide/files/usr/bin/bash
+
 echo "AndroidIDE kaynak listesi ayarlanıyor..."
 
 LIST_PATH="$PREFIX/etc/apt/sources.list"
@@ -10,4 +12,10 @@ echo "🔄 Paket listesi güncelleniyor..."
 apt update && idesetup
 
 echo "✅ Tüm işlemler tamamlandı!"
-EOF
+
+echo ""
+echo "────────────────────────────────────"
+echo "📺 YouTube:  https://youtube.com/@OktaySavci"
+echo "📸 Instagram: https://instagram.com/svc_software"
+echo "────────────────────────────────────"
+echo ""
