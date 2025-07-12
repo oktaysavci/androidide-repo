@@ -1,6 +1,3 @@
-cat > fix-androidide-sources.sh << 'EOF'
-#!/data/data/com.itsaky.androidide/files/usr/bin/bash
-
 echo "AndroidIDE kaynak listesi ayarlanıyor..."
 
 LIST_PATH="$PREFIX/etc/apt/sources.list"
